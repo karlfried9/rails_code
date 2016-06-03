@@ -1,0 +1,3 @@
+class CasualClient < Client
+
+end
